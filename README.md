@@ -18,7 +18,7 @@ This project provides an in-depth analysis of Netflix movies and shows, using da
 ## 🛠 Technologies Used
 - Python  
 - Pandas  
-- SQL (via SQLite or similar)  
+- SQL (via SQLite) 
 - Matplotlib  
-- Jupyter Notebook  
+  
 
